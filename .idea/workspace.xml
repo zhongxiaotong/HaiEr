@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d285cfb-309b-4573-8a29-ccc1435c15ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API/lianxi02.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common_Module/All_Common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+              <folding>
+                <element signature="e#100#162#0" expanded="true" />
+                <element signature="e#1981#2951#0" />
+                <element signature="e#3065#3757#0" />
+                <element signature="e#3830#3952#0" />
+                <element signature="e#4783#5249#0" />
+                <element signature="e#5315#5401#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_Case/test_case_HT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="77" column="19" lean-forward="true" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+              <folding>
+                <element signature="e#771#1626#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Run_Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1074">
+              <caret line="92" column="9" lean-forward="true" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API/login_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+              <folding>
+                <element signature="e#129#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>null</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lianxio.py" />
+        <option value="$PROJECT_DIR$/mysq_page/sql_common_module.py" />
+        <option value="$PROJECT_DIR$/YDK_XCX/YDK.py" />
+        <option value="$PROJECT_DIR$/game_copy.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/HouTai/houtai.py" />
+        <option value="$PROJECT_DIR$/Config/email_cfg.py" />
+        <option value="$PROJECT_DIR$/Log_Page/test_log.py" />
+        <option value="$PROJECT_DIR$/Email_Page/send_email.py" />
+        <option value="$PROJECT_DIR$/Config/test_api.py" />
+        <option value="$PROJECT_DIR$/Config/test_telephone.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_case.py" />
+        <option value="$PROJECT_DIR$/Config/test_host.py" />
+        <option value="$PROJECT_DIR$/Config/file_path.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_case_YWCJ.py" />
+        <option value="$PROJECT_DIR$/API/All_Api.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_app_ui.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_web_ui.py" />
+        <option value="$PROJECT_DIR$/APP_UI/app_run.py" />
+        <option value="$PROJECT_DIR$/Config/file_path.yml" />
+        <option value="$PROJECT_DIR$/Test_Case/test_case_YD.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_case_GYS.py" />
+        <option value="$PROJECT_DIR$/WEB_UI/web_run.py" />
+        <option value="$PROJECT_DIR$/Config/test_telephone_cfg.py" />
+        <option value="$PROJECT_DIR$/API/Purchase.py" />
+        <option value="$PROJECT_DIR$/API/lianxi.py" />
+        <option value="$PROJECT_DIR$/Run_Main.py" />
+        <option value="$PROJECT_DIR$/Config/dingding_cfg.py" />
+        <option value="$PROJECT_DIR$/DingDing_Page/dingding.py" />
+        <option value="$PROJECT_DIR$/Config/test_host_cfg.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_case_YKD.py" />
+        <option value="$PROJECT_DIR$/API/ku_code.txt" />
+        <option value="$PROJECT_DIR$/API/lianxi02.py" />
+        <option value="$PROJECT_DIR$/Common_Module/All_Common.py" />
+        <option value="$PROJECT_DIR$/API/login_api.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_case_HT.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+              <item name="APP_UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+              <item name="Common_Module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+              <item name="DingDing_Page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+              <item name="Excel_Page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HaiEr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HaiEr" type="462c0819:PsiDirectoryNode" />
+              <item name="Report_Page" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/HaiEr" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Run_Main">
+    <configuration name="All_Common" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HaiEr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common_Module/All_Common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run_Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HaiEr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Run_Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_case_HT.Test_Case_HT" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HaiEr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_case_HT.Test_Case_HT&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_case_HT.Test_Case_HT.test_01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HaiEr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_case_HT.Test_Case_HT.test_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_case_HT.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HaiEr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Case/test_case_HT.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Run_Main" />
+        <item itemvalue="Python tests.Unittests in test_case_HT.py" />
+        <item itemvalue="Python tests.Unittests for test_case_HT.Test_Case_HT.test_01" />
+        <item itemvalue="Python tests.Unittests for test_case_HT.Test_Case_HT" />
+        <item itemvalue="Python.All_Common" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d285cfb-309b-4573-8a29-ccc1435c15ea" name="Default Changelist" comment="" />
+      <created>1623726312169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623726312169</updated>
+      <workItem from="1623726315086" duration="3206000" />
+      <workItem from="1624079198035" duration="3674000" />
+      <workItem from="1624254527974" duration="2266000" />
+      <workItem from="1624523066458" duration="5193000" />
+      <workItem from="1625039185157" duration="42047000" />
+      <workItem from="1625646927311" duration="28695000" />
+      <workItem from="1625793832345" duration="13582000" />
+      <workItem from="1625828411610" duration="180000" />
+      <workItem from="1625911708068" duration="494000" />
+      <workItem from="1626526134394" duration="285000" />
+      <workItem from="1626919194443" duration="1535000" />
+      <workItem from="1627023281107" duration="74512000" />
+      <workItem from="1627992531502" duration="1160000" />
+      <workItem from="1628043823184" duration="841000" />
+      <workItem from="1628045855452" duration="730000" />
+      <workItem from="1628147510759" duration="1558000" />
+      <workItem from="1628490089770" duration="905000" />
+      <workItem from="1628560030464" duration="865000" />
+      <workItem from="1628562058509" duration="1030000" />
+      <workItem from="1628679391490" duration="654000" />
+      <workItem from="1628753004870" duration="28000" />
+      <workItem from="1628753077068" duration="1776000" />
+      <workItem from="1628755029176" duration="1047000" />
+      <workItem from="1628758168822" duration="1491000" />
+      <workItem from="1628843590937" duration="2035000" />
+      <workItem from="1628845672047" duration="1687000" />
+      <workItem from="1629194107405" duration="1635000" />
+      <workItem from="1629337142095" duration="129000" />
+      <workItem from="1629337418668" duration="681000" />
+      <workItem from="1629353632033" duration="1561000" />
+      <workItem from="1629363977618" duration="1106000" />
+      <workItem from="1629424260616" duration="3821000" />
+      <workItem from="1629458355931" duration="629000" />
+      <workItem from="1629800841512" duration="1518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Purchase_py - 2021.08.02 at 10h 07m 17s.xml">
+      <configuration name="Unittests in Purchase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Purchase_py - 2021.08.02 at 10h 07m 31s.xml">
+      <configuration name="Unittests in Purchase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_web_run_Web_Driver_test_creat_GYS - 2021.08.02 at 17h 33m 46s.xml">
+      <configuration name="Unittests for web_run.Web_Driver.test_creat_GYS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_web_run_py - 2021.08.02 at 17h 34m 25s.xml">
+      <configuration name="Unittests in web_run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_HT_Test_Case_HT - 2021.10.21 at 00h 34m 47s.xml">
+      <configuration name="Unittests for test_case_HT.Test_Case_HT" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_HT_Test_Case_HT - 2021.10.21 at 00h 35m 28s.xml">
+      <configuration name="Unittests for test_case_HT.Test_Case_HT" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_case_HT_Test_Case_HT_test_01 - 2021.10.21 at 00h 48m 00s.xml">
+      <configuration name="Unittests for test_case_HT.Test_Case_HT.test_01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_HT_py - 2021.10.21 at 00h 48m 17s.xml">
+      <configuration name="Unittests in test_case_HT.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_HT_py - 2021.10.21 at 00h 56m 27s.xml">
+      <configuration name="Unittests in test_case_HT.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_HT_py - 2021.10.21 at 00h 58m 10s.xml">
+      <configuration name="Unittests in test_case_HT.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202556000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19419643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.84288055" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5450082" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43661973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.47128928" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_YKD_Test_Case_YDK_test_ydk.coverage" NAME="Unittests for test_case_YKD.Test_Case_YDK.test_ydk Coverage Results" MODIFIED="1627440567750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$All_Api.coverage" NAME="All_Api Coverage Results" MODIFIED="1625121032017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/HaiEr$game_copy.coverage" NAME="game_copy Coverage Results" MODIFIED="1624451949460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_test_case_py.coverage" NAME="Unittests in test_case.py Coverage Results" MODIFIED="1625045715959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_GYS_Test_Case_GYS_test_01.coverage" NAME="Unittests for test_case_GYS.Test_Case_GYS.test_01 Coverage Results" MODIFIED="1625796897948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$test_case_GYS.coverage" NAME="test_case_GYS Coverage Results" MODIFIED="1625811098250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_YD_Test_Case_YD.coverage" NAME="Unittests for test_case_YD.Test_Case_YD Coverage Results" MODIFIED="1625129063536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1625799844240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Log_Page" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_test_case_YKD_py.coverage" NAME="Unittests in test_case_YKD.py Coverage Results" MODIFIED="1627463953708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_test_case_YD_py.coverage" NAME="Unittests in test_case_YD.py Coverage Results" MODIFIED="1625799151984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$lianxi02.coverage" NAME="lianxi02 Coverage Results" MODIFIED="1629337490707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_YKD_Test_Case_YDK_test_01.coverage" NAME="Unittests for test_case_YKD.Test_Case_YDK.test_01 Coverage Results" MODIFIED="1625127137269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Run_Main.coverage" NAME="Run_Main Coverage Results" MODIFIED="1625799887762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_YKD_Test_Case_YDK.coverage" NAME="Unittests for test_case_YKD.Test_Case_YDK Coverage Results" MODIFIED="1625466213162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_All_Test_Case.coverage" NAME="Unittests for test_case.All_Test_Case Coverage Results" MODIFIED="1625046661800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Purchase.coverage" NAME="Purchase Coverage Results" MODIFIED="1627895581110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/HaiEr$app_run.coverage" NAME="app_run Coverage Results" MODIFIED="1625725470599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_UI" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_All_Test_Case_test_01.coverage" NAME="Unittests for test_case.All_Test_Case.test_01 Coverage Results" MODIFIED="1625045983001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_test_case_HT_py.coverage" NAME="Unittests in test_case_HT.py Coverage Results" MODIFIED="1625798863278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$houtai.coverage" NAME="houtai Coverage Results" MODIFIED="1624867902107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HouTai" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_Purchase_py.coverage" NAME="Unittests in Purchase.py Coverage Results" MODIFIED="1627870050749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/HaiEr$YDK.coverage" NAME="YDK Coverage Results" MODIFIED="1624095708043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/YDK_XCX" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_web_run_py.coverage" NAME="Unittests in web_run.py Coverage Results" MODIFIED="1627896829384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WEB_UI" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_web_run_Web_Driver.coverage" NAME="Unittests for web_run.Web_Driver Coverage Results" MODIFIED="1627263365266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WEB_UI" />
+    <SUITE FILE_PATH="coverage/HaiEr$test.coverage" NAME="test Coverage Results" MODIFIED="1624523221777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_YD_Test_Case_YD_test_01.coverage" NAME="Unittests for test_case_YD.Test_Case_YD.test_01 Coverage Results" MODIFIED="1625128929855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$dingding.coverage" NAME="dingding Coverage Results" MODIFIED="1625041292274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DingDing_Page" />
+    <SUITE FILE_PATH="coverage/HaiEr$All_Common.coverage" NAME="All_Common Coverage Results" MODIFIED="1625042646427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common_Module" />
+    <SUITE FILE_PATH="coverage/HaiEr$web_run.coverage" NAME="web_run Coverage Results" MODIFIED="1625795802584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WEB_UI" />
+    <SUITE FILE_PATH="coverage/HaiEr$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1629801274463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_test_case_YKD_Test_Case_YDK_test_02.coverage" NAME="Unittests for test_case_YKD.Test_Case_YDK.test_02 Coverage Results" MODIFIED="1625796944832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_for_web_run_Web_Driver_test_creat_GYS.coverage" NAME="Unittests for web_run.Web_Driver.test_creat_GYS Coverage Results" MODIFIED="1627896825167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WEB_UI" />
+    <SUITE FILE_PATH="coverage/HaiEr$login_api.coverage" NAME="login_api Coverage Results" MODIFIED="1627905507358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/HaiEr$file_path.coverage" NAME="file_path Coverage Results" MODIFIED="1625040241164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+    <SUITE FILE_PATH="coverage/HaiEr$Unittests_in_test_case_GYS_py.coverage" NAME="Unittests in test_case_GYS.py Coverage Results" MODIFIED="1625810878728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/game_copy.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/eventlet/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/convenience.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/support/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/hubs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2272">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/greenpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/eventlet/support/greenlets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report_Page/result.html" />
+    <entry file="file://$PROJECT_DIR$/Log_Page/2021_07_01.log" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3861">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2005" column="4" selection-start-line="2005" selection-start-column="4" selection-end-line="2005" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log_Page/2021_07_08.log" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_app_ui.py" />
+    <entry file="file://$PROJECT_DIR$/Config/file_path.yml" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_case_YWCJ.py" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_web_ui.py" />
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/Log_Page/test_log.py" />
+    <entry file="file://$PROJECT_DIR$/Log_Page/2021_07_09.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/reader/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="287" column="4" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="316" selection-start-line="316" selection-end-line="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB_UI/web_run.py" />
+    <entry file="file://$PROJECT_DIR$/API/Purchase.py" />
+    <entry file="file://$PROJECT_DIR$/Config/dingding_cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/email_cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log_Page/2021_06_30.log" />
+    <entry file="file://$PROJECT_DIR$/Email_Page/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DingDing_Page/dingding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1256">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="e#97#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/test_telephone_cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP_UI/app_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#96#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/file_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#116#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/api_login_cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/test_host_cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_case_YKD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="95" column="42" selection-start-line="95" selection-start-column="42" selection-end-line="95" selection-end-column="42" />
+          <folding>
+            <element signature="e#127#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/ku_code.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_case_YD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+          <folding>
+            <element signature="e#125#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_case_GYS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/lianxi02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/login_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding>
+            <element signature="e#129#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common_Module/All_Common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#100#162#0" expanded="true" />
+            <element signature="e#1981#2951#0" />
+            <element signature="e#3065#3757#0" />
+            <element signature="e#3830#3952#0" />
+            <element signature="e#4783#5249#0" />
+            <element signature="e#5315#5401#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/test_case_HT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="77" column="19" lean-forward="true" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+          <folding>
+            <element signature="e#771#1626#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Run_Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="92" column="9" lean-forward="true" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

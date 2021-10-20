@@ -1,0 +1,16 @@
+
+excel_path_YDK: \Excel_Page\test_case_YDK.xlsx
+
+excel_path_YD: \Excel_Page\test_case_YD.xlsx
+
+excel_path_HT: \Excel_Page\test_case_HT.xlsx
+
+excel_path_GYS: \Excel_Page\test_case_GYS.xlsx
+
+log_path: \Log_Page
+
+report_path:  \Report_Page\result.html
+
+test_cast_path: \Test_Case
+
+excel_path_WEB: \Excel_Page\test_case_WEB.xlsx
